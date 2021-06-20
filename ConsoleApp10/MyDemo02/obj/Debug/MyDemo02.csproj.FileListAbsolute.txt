@@ -1,0 +1,6 @@
+E:\code\c#\ConsoleApp10\MyDemo02\bin\Debug\MyDemo02.exe.config
+E:\code\c#\ConsoleApp10\MyDemo02\bin\Debug\MyDemo02.exe
+E:\code\c#\ConsoleApp10\MyDemo02\bin\Debug\MyDemo02.pdb
+E:\code\c#\ConsoleApp10\MyDemo02\obj\Debug\MyDemo02.csproj.CoreCompileInputs.cache
+E:\code\c#\ConsoleApp10\MyDemo02\obj\Debug\MyDemo02.exe
+E:\code\c#\ConsoleApp10\MyDemo02\obj\Debug\MyDemo02.pdb

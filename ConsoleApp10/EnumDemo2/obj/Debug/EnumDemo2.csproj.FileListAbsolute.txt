@@ -1,0 +1,7 @@
+E:\code\c#\ConsoleApp10\EnumDemo2\bin\Debug\EnumDemo2.exe.config
+E:\code\c#\ConsoleApp10\EnumDemo2\bin\Debug\EnumDemo2.exe
+E:\code\c#\ConsoleApp10\EnumDemo2\bin\Debug\EnumDemo2.pdb
+E:\code\c#\ConsoleApp10\EnumDemo2\obj\Debug\EnumDemo2.csprojAssemblyReference.cache
+E:\code\c#\ConsoleApp10\EnumDemo2\obj\Debug\EnumDemo2.csproj.CoreCompileInputs.cache
+E:\code\c#\ConsoleApp10\EnumDemo2\obj\Debug\EnumDemo2.exe
+E:\code\c#\ConsoleApp10\EnumDemo2\obj\Debug\EnumDemo2.pdb
